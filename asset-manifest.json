@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Day-Night/static/css/main.17a0dca1.css",
+    "main.js": "/Day-Night/static/js/main.584c4a32.js",
+    "index.html": "/Day-Night/index.html",
+    "main.17a0dca1.css.map": "/Day-Night/static/css/main.17a0dca1.css.map",
+    "main.584c4a32.js.map": "/Day-Night/static/js/main.584c4a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17a0dca1.css",
+    "static/js/main.584c4a32.js"
+  ]
+}
