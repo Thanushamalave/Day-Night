@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Day-Night/static/css/main.17a0dca1.css",
-    "main.js": "/Day-Night/static/js/main.584c4a32.js",
-    "index.html": "/Day-Night/index.html",
-    "main.17a0dca1.css.map": "/Day-Night/static/css/main.17a0dca1.css.map",
-    "main.584c4a32.js.map": "/Day-Night/static/js/main.584c4a32.js.map"
+    "main.css": "/Thanushamalave/Day-Night_Reactjs.git/static/css/main.17a0dca1.css",
+    "main.js": "/Thanushamalave/Day-Night_Reactjs.git/static/js/main.584c4a32.js",
+    "index.html": "/Thanushamalave/Day-Night_Reactjs.git/index.html",
+    "main.17a0dca1.css.map": "/Thanushamalave/Day-Night_Reactjs.git/static/css/main.17a0dca1.css.map",
+    "main.584c4a32.js.map": "/Thanushamalave/Day-Night_Reactjs.git/static/js/main.584c4a32.js.map"
   },
   "entrypoints": [
     "static/css/main.17a0dca1.css",
